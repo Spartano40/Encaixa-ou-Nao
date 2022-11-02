@@ -1,0 +1,15 @@
+C:\2º Desafio de Código\bin\Debug\net6.0\2º Desafio de Código.exe
+C:\2º Desafio de Código\bin\Debug\net6.0\2º Desafio de Código.deps.json
+C:\2º Desafio de Código\bin\Debug\net6.0\2º Desafio de Código.runtimeconfig.json
+C:\2º Desafio de Código\bin\Debug\net6.0\2º Desafio de Código.dll
+C:\2º Desafio de Código\bin\Debug\net6.0\2º Desafio de Código.pdb
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.csproj.AssemblyReference.cache
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.GeneratedMSBuildEditorConfig.editorconfig
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.AssemblyInfoInputs.cache
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.AssemblyInfo.cs
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.csproj.CoreCompileInputs.cache
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.dll
+C:\2º Desafio de Código\obj\Debug\net6.0\refint\2º Desafio de Código.dll
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.pdb
+C:\2º Desafio de Código\obj\Debug\net6.0\2º Desafio de Código.genruntimeconfig.cache
+C:\2º Desafio de Código\obj\Debug\net6.0\ref\2º Desafio de Código.dll
