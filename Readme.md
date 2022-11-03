@@ -1,1 +1,1 @@
-Encaixa ou Não?
+ENCAIXA OU NÃO ?
